@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: My description of my most memorable road trip.
-datePublished: '2016-01-15T02:24:09.551Z'
-dateModified: '2016-01-15T02:23:07.518Z'
+datePublished: '2016-01-15T02:29:46.393Z'
+dateModified: '2016-01-15T02:28:34.084Z'
 title: "Road Trip Memory: Elephants Don't Need No Help"
 author: []
+sourcePath: _posts/2016-01-15-road-trip-memory-elephants-dont-need-no-help.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-15-road-trip-memory-elephants-dont-need-no-help.md
-published: true
 url: road-trip-memory-elephants-dont-need-no-help/index.html
 _type: Article
 
@@ -31,5 +31,6 @@ Do you know how fast a car goes in reverse when the clutch cable is broken? It d
 We jumped back in the car. The guide tells us the elephant is calling the other elephants (like it needs help to squash us like little bugs). One daughter is screaming. I tell the other daughter to get the video camera. The guide tells my wife, "You have my permission to make her be quiet." She keeps screaming until the guide says, "She is calling the other elephants." She stops abruptly. My other daughter has the camera going but the guide says, "Forget the camera, we need to get out of here!" Guess he's never heard of a National Geographic moment. I rev the engine and jam the gear and by God's grace it goes into reverse without killing the engine. I back up for a couple of miles before I feel safe enough to stop.
 
 We are finally out of danger. So we push the car enough to get it into second gear to head back to the base. I'm feeling pretty good until the guide mentions that the salt rocks are ahead and there are usually more elephants there.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0077443f-2cfc-4db8-b37f-8ef2e9d7f04c.jpg)
 
 [0]: http://www.yankarigamereserve.com/home.htm "Yankari Game Reserve, Bauchi State, Nigeria"
