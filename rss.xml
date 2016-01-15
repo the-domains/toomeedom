@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[toomeedom]]></title>
+        <description><![CDATA[toomeedom]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 15 Jan 2016 02:24:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Road Trip Memory: Elephants Don't Need No Help]]></title>
+            <description><![CDATA[<article><h1>Road Trip Memory: Elephants Don't Need No Help</h1><p>That would have to be the time we were in Yankari Game Reserve in Nigeria when the clutch cable broke on our car while we were going to see the elephants. We traveled for two days from our home in Ukpom to get toYankari. The first day we took the tour on the "tour bus" or the back of a dump truck - ate dust for a couple of hours but it was okay. We saw a few animals. The next day we show up two minutes late and the tour bus has already gone so I ask the ranger if we can drive through in our car. He says yes, if we will take a guide with us. So, my wife and three kids get in the back seat and off we go.</p></article>]]></description>
+            <link>undefinedroad-trip-memory-elephants-dont-need-no-help/index.html</link>
+            <guid isPermaLink="false">6371f6c7-9e8f-4e4b-944b-8f8952b9ec1c</guid>
+            <pubDate>Fri, 15 Jan 2016 02:24:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
