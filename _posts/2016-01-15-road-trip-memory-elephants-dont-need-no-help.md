@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: My description of my most memorable road trip.
-datePublished: '2016-01-20T22:32:07.310Z'
+datePublished: '2016-01-20T22:32:07.352Z'
 dateModified: '2016-01-20T22:32:02.199Z'
 title: "Road Trip Memory: Elephants Don't Need No Help"
 author: []
