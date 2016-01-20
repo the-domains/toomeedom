@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: My description of my most memorable road trip.
-datePublished: '2016-01-15T02:29:46.393Z'
-dateModified: '2016-01-15T02:28:34.084Z'
+datePublished: '2016-01-20T22:32:07.310Z'
+dateModified: '2016-01-20T22:32:02.199Z'
 title: "Road Trip Memory: Elephants Don't Need No Help"
 author: []
 sourcePath: _posts/2016-01-15-road-trip-memory-elephants-dont-need-no-help.md
